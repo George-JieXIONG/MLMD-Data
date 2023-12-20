@@ -1,0 +1,3 @@
+-Case 1 describes the mechincal property of low-alloy steels  
+-Case 2 describes the Curie temperature of ferroelectric perovskites  
+-Case 3 describes the flow behaviors of FGH98 superalloys
